@@ -35,7 +35,7 @@ Skills:
 - 💬 Ask me about Python, SQL, and Data Analytics projects. 
 - 📫 How to reach me:
 - 📧 Email: samarthdhangare800@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/samarth-dhangare-a58ba3272
+- 💼 LinkedIn: [www.linkedin.com/in/samarth-dhangare-a58ba3272](https://www.linkedin.com/in/samarth-dhangare-a58ba3272/)
 - 💻 GitHub: https://github.com/SamarthD01 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love building projects late at night when the world is quiet. 
